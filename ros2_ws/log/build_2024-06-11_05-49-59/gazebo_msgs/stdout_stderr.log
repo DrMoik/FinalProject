@@ -1,0 +1,24 @@
+[  1%] [34m[1mGenerating Rust code for ROS interfaces[0m
+[  1%] Built target gazebo_msgs__rs
+[  1%] Built target ament_cmake_python_copy_gazebo_msgs
+[  1%] Built target gazebo_msgs__cpp
+running egg_info
+writing gazebo_msgs.egg-info/PKG-INFO
+writing dependency_links to gazebo_msgs.egg-info/dependency_links.txt
+writing top-level names to gazebo_msgs.egg-info/top_level.txt
+reading manifest file 'gazebo_msgs.egg-info/SOURCES.txt'
+writing manifest file 'gazebo_msgs.egg-info/SOURCES.txt'
+[  1%] Built target ament_cmake_python_build_gazebo_msgs_egg
+[ 13%] Built target gazebo_msgs__rosidl_typesupport_cpp
+[ 25%] Built target gazebo_msgs__rosidl_typesupport_introspection_cpp
+[ 37%] Built target gazebo_msgs__rosidl_typesupport_fastrtps_cpp
+[ 49%] Built target gazebo_msgs__rosidl_generator_c
+[ 61%] Built target gazebo_msgs__rosidl_typesupport_fastrtps_c
+[ 73%] Built target gazebo_msgs__rosidl_typesupport_c
+[ 85%] Built target gazebo_msgs__rosidl_typesupport_introspection_c
+[ 85%] Built target gazebo_msgs
+[ 85%] Built target gazebo_msgs__py
+[ 97%] Built target gazebo_msgs__rosidl_generator_py
+[ 98%] Built target gazebo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[ 99%] Built target gazebo_msgs__rosidl_typesupport_c__pyext
+[100%] Built target gazebo_msgs__rosidl_typesupport_introspection_c__pyext

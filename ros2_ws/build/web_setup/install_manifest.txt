@@ -1,0 +1,16 @@
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/launch/web_setup.launch.py
+/home/user/FinalProject/ros2_ws/install/web_setup/share/ament_index/resource_index/package_run_dependencies/web_setup
+/home/user/FinalProject/ros2_ws/install/web_setup/share/ament_index/resource_index/parent_prefix_path/web_setup
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/environment/ament_prefix_path.sh
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/environment/ament_prefix_path.dsv
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/environment/path.sh
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/environment/path.dsv
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/local_setup.bash
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/local_setup.sh
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/local_setup.zsh
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/local_setup.dsv
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/package.dsv
+/home/user/FinalProject/ros2_ws/install/web_setup/share/ament_index/resource_index/packages/web_setup
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/cmake/web_setupConfig.cmake
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/cmake/web_setupConfig-version.cmake
+/home/user/FinalProject/ros2_ws/install/web_setup/share/web_setup/package.xml

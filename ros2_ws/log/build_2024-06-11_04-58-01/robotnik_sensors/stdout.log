@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/ament_index/resource_index/package_run_dependencies/robotnik_sensors
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/ament_index/resource_index/parent_prefix_path/robotnik_sensors
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/environment/ament_prefix_path.sh
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/environment/path.sh
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/environment/path.dsv
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/local_setup.bash
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/local_setup.sh
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/local_setup.zsh
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/local_setup.dsv
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/package.dsv
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/ament_index/resource_index/packages/robotnik_sensors
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/cmake/robotnik_sensorsConfig.cmake
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/cmake/robotnik_sensorsConfig-version.cmake
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/package.xml
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//meshes
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//meshes/intel_r430.stl
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//meshes/intel_r430.dae
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//urdf
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//urdf/intel_r430.urdf.xacro
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//urdf/utils
+-- Up-to-date: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//urdf/utils/inertia.urdf.xacro

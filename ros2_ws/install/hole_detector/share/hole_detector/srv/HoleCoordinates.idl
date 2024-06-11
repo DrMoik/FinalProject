@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from hole_detector/srv/HoleCoordinates.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module hole_detector {
+  module srv {
+    struct HoleCoordinates_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct HoleCoordinates_Response {
+      sequence<geometry_msgs::msg::Point> coordinates;
+
+      boolean success;
+    };
+  };
+};

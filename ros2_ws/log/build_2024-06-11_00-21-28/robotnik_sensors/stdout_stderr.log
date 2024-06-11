@@ -1,0 +1,44 @@
+-- The C compiler identification is GNU 11.3.0
+-- The CXX compiler identification is GNU 11.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/FinalProject/ros2_ws/build/robotnik_sensors
+-- Install configuration: ""
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/ament_index/resource_index/package_run_dependencies/robotnik_sensors
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/ament_index/resource_index/parent_prefix_path/robotnik_sensors
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/environment/ament_prefix_path.sh
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/environment/ament_prefix_path.dsv
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/environment/path.sh
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/environment/path.dsv
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/local_setup.bash
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/local_setup.sh
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/local_setup.zsh
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/local_setup.dsv
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/package.dsv
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/ament_index/resource_index/packages/robotnik_sensors
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/cmake/robotnik_sensorsConfig.cmake
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/cmake/robotnik_sensorsConfig-version.cmake
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors/package.xml
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//meshes
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//meshes/intel_r430.stl
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//meshes/intel_r430.dae
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//urdf
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//urdf/intel_r430.urdf.xacro
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//urdf/utils
+-- Installing: /home/user/FinalProject/ros2_ws/install/robotnik_sensors/share/robotnik_sensors//urdf/utils/inertia.urdf.xacro

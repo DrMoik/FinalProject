@@ -1,0 +1,2 @@
+Invoking command in '/home/user/FinalProject/ros2_ws/build/web_setup': _=/usr/bin/env /usr/bin/cmake /home/user/FinalProject/ros2_ws/src/web_setup -DCMAKE_INSTALL_PREFIX=/home/user/FinalProject/ros2_ws/install/web_setup
+Invoked command in '/home/user/FinalProject/ros2_ws/build/web_setup' returned '1': _=/usr/bin/env /usr/bin/cmake /home/user/FinalProject/ros2_ws/src/web_setup -DCMAKE_INSTALL_PREFIX=/home/user/FinalProject/ros2_ws/install/web_setup

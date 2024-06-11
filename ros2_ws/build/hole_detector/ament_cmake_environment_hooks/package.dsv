@@ -1,0 +1,4 @@
+source;share/hole_detector/local_setup.bash
+source;share/hole_detector/local_setup.dsv
+source;share/hole_detector/local_setup.sh
+source;share/hole_detector/local_setup.zsh

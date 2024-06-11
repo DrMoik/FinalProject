@@ -1,0 +1,9 @@
+[35m[1mConsolidate compiler generated dependencies of target pick_and_place_perception_sim[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/pick_and_place_perception_sim.dir/src/pick_and_place_perception_sim.cpp.o[0m
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:[m[K In member function '[01m[Kvoid GetPoseClient::pick_and_place_service()[m[K':
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:367:65:[m[K [01;31m[Kerror: [m[K'[01m[Kpick_and_place[m[K' is not a member of '[01m[KGetPoseClient[m[K'
+  367 |                                       std::bind(&GetPoseClient::[01;31m[Kpick_and_place[m[K,
+      |                                                                 [01;31m[K^~~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/pick_and_place_perception_sim.dir/build.make:76: CMakeFiles/pick_and_place_perception_sim.dir/src/pick_and_place_perception_sim.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/pick_and_place_perception_sim.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

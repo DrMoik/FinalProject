@@ -1,0 +1,9 @@
+/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/uninstall.dir
+/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/web_setup_uninstall.dir
+/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/test.dir
+/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/edit_cache.dir
+/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/rebuild_cache.dir
+/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/list_install_components.dir
+/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/install.dir
+/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/install/local.dir
+/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/install/strip.dir

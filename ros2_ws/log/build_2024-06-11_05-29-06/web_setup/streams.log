@@ -1,0 +1,45 @@
+[0.387s] Invoking command in '/home/user/FinalProject/ros2_ws/build/web_setup': _=/usr/bin/env /usr/bin/cmake /home/user/FinalProject/ros2_ws/src/web_setup -DCMAKE_INSTALL_PREFIX=/home/user/FinalProject/ros2_ws/install/web_setup
+[5.217s] -- The C compiler identification is GNU 11.3.0
+[5.575s] -- The CXX compiler identification is GNU 11.3.0
+[5.885s] -- Detecting C compiler ABI info
+[6.459s] -- Detecting C compiler ABI info - done
+[6.483s] -- Check for working C compiler: /usr/bin/cc - skipped
+[6.484s] -- Detecting C compile features
+[6.486s] -- Detecting C compile features - done
+[6.494s] -- Detecting CXX compiler ABI info
+[6.990s] -- Detecting CXX compiler ABI info - done
+[7.004s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[7.005s] -- Detecting CXX compile features
+[7.006s] -- Detecting CXX compile features - done
+[7.040s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[8.599s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[9.829s] -- Found rclpy: 3.3.8 (/opt/ros/humble/share/rclpy/cmake)
+[10.056s] Error parsing '/home/user/FinalProject/ros2_ws/src/web_setup/package.xml':
+[10.057s] Traceback (most recent call last):
+[10.057s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[10.057s]     main()
+[10.057s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[10.057s]     raise e
+[10.057s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[10.057s]     package = parse_package_string(
+[10.058s]   File "/usr/local/lib/python3.10/dist-packages/catkin_pkg/package.py", line 788, in parse_package_string
+[10.060s]     pkg.validate(warnings=warnings)
+[10.060s]   File "/usr/local/lib/python3.10/dist-packages/catkin_pkg/package.py", line 330, in validate
+[10.060s]     raise InvalidPackage('\n'.join(errors), self.filename)
+[10.060s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/user/FinalProject/ros2_ws/src/web_setup/package.xml':
+[10.060s] Invalid email "m.galveztec.mx" for person "Mike GZ"
+[10.074s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[10.074s]   execute_process(/usr/bin/python3.10
+[10.074s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[10.074s]   /home/user/FinalProject/ros2_ws/src/web_setup/package.xml
+[10.074s]   /home/user/FinalProject/ros2_ws/build/web_setup/ament_cmake_core/package.cmake)
+[10.075s]   returned error code 1
+[10.075s] Call Stack (most recent call first):
+[10.075s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[10.075s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package.cmake:63 (ament_package_xml)
+[10.075s]   CMakeLists.txt:12 (ament_package)
+[10.075s] 
+[10.075s] [0m
+[10.081s] -- Configuring incomplete, errors occurred!
+[10.081s] See also "/home/user/FinalProject/ros2_ws/build/web_setup/CMakeFiles/CMakeOutput.log".
+[10.084s] Invoked command in '/home/user/FinalProject/ros2_ws/build/web_setup' returned '1': _=/usr/bin/env /usr/bin/cmake /home/user/FinalProject/ros2_ws/src/web_setup -DCMAKE_INSTALL_PREFIX=/home/user/FinalProject/ros2_ws/install/web_setup

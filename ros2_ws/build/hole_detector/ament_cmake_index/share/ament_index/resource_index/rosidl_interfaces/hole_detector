@@ -1,0 +1,4 @@
+srv/HoleCoordinates.idl
+srv/HoleCoordinates.srv
+srv/HoleCoordinates_Request.msg
+srv/HoleCoordinates_Response.msg

@@ -1,0 +1,79 @@
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:66:39:[m[K [01;31m[Kerror: [m[K'[01m[KInt16[m[K' is not a member of '[01m[Kstd_msgs::msg[m[K'
+   66 |   rclcpp::Subscription<std_msgs::msg::[01;31m[KInt16[m[K>::SharedPtr webpage_sub_;
+      |                                       [01;31m[K^~~~~[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:66:44:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   66 |   rclcpp::Subscription<std_msgs::msg::Int16[01;31m[K>[m[K::SharedPtr webpage_sub_;
+      |                                            [01;31m[K^[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:66:44:[m[K [01;31m[Kerror: [m[Ktemplate argument 3 is invalid
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:66:44:[m[K [01;31m[Kerror: [m[Ktemplate argument 4 is invalid
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:66:44:[m[K [01;31m[Kerror: [m[Ktemplate argument 5 is invalid
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:66:47:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K;[m[K' at end of member declaration
+   66 |   rclcpp::Subscription<std_msgs::msg::Int16>::[01;31m[KSharedPtr[m[K webpage_sub_;
+      |                                               [01;31m[K^~~~~~~~~[m[K
+      |                                                        [32m[K;[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:66:57:[m[K [01;31m[Kerror: [m[K'[01m[Kwebpage_sub_[m[K' does not name a type
+   66 |   rclcpp::Subscription<std_msgs::msg::Int16>::SharedPtr [01;31m[Kwebpage_sub_[m[K;
+      |                                                         [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:370:46:[m[K [01;31m[Kerror: [m[K'[01m[KInt16[m[K' in namespace '[01m[Kstd_msgs::msg[m[K' does not name a type
+  370 |   void webpage_callback(const std_msgs::msg::[01;31m[KInt16[m[K::SharedPtr msg) {
+      |                                              [01;31m[K^~~~~[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:370:63:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before '[01m[Kmsg[m[K'
+  370 |   void webpage_callback(const std_msgs::msg::Int16::SharedPtr [01;31m[Kmsg[m[K) {
+      |                                                               [01;31m[K^~~[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:370:62:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K)[m[K' before '[01m[Kmsg[m[K'
+  370 |   void webpage_callback[34m[K([m[Kconst std_msgs::msg::Int16::SharedPtr[01;31m[K [m[K[32m[Kmsg[m[K) {
+      |                        [34m[K~[m[K                                     [01;31m[K^[m[K[32m[K~~~[m[K
+      |                                                              [32m[K)[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:370:53:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K;[m[K' at end of member declaration
+  370 |   void webpage_callback(const std_msgs::msg::Int16::[01;31m[KSharedPtr[m[K msg) {
+      |                                                     [01;31m[K^~~~~~~~~[m[K
+      |                                                              [32m[K;[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:370:63:[m[K [01;31m[Kerror: [m[K'[01m[Kmsg[m[K' does not name a type
+  370 |   void webpage_callback(const std_msgs::msg::Int16::SharedPtr [01;31m[Kmsg[m[K) {
+      |                                                               [01;31m[K^~~[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:[m[K In constructor '[01m[KGetPoseClient::GetPoseClient(const rclcpp::NodeOptions&)[m[K':
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:31:5:[m[K [01;31m[Kerror: [m[K'[01m[Kwebpage_sub_[m[K' was not declared in this scope
+   31 |     [01;31m[Kwebpage_sub_[m[K = this->create_subscription<std_msgs::msg::Int16>(
+      |     [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:31:61:[m[K [01;31m[Kerror: [m[K'[01m[KInt16[m[K' is not a member of '[01m[Kstd_msgs::msg[m[K'
+   31 |     webpage_sub_ = this->create_subscription<std_msgs::msg::[01;31m[KInt16[m[K>(
+      |                                                             [01;31m[K^~~~~[m[K
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:31:67:[m[K [01;31m[Kerror: [m[Kno matching function for call to '[01m[KGetPoseClient::create_subscription<<expression error> >(const char [9], int, std::_Bind_helper<false, void (GetPoseClient::*)(...), GetPoseClient*, const std::_Placeholder<1>&>::type, rclcpp::SubscriptionOptions&)[m[K'
+   31 |     webpage_sub_ = [01;31m[Kthis->create_subscription<std_msgs::msg::Int16>([m[K
+      |                    [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^[m[K
+   32 | [01;31m[K        "/webpage", 10,[m[K
+      |         [01;31m[K~~~~~~~~~~~~~~~[m[K                                            
+   33 | [01;31m[K        std::bind(&GetPoseClient::webpage_callback, this,[m[K
+      |         [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K          
+   34 | [01;31m[K                  std::placeholders::_1),[m[K
+      |                   [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~[m[K                          
+   35 | [01;31m[K        options1)[m[K;
+      |         [01;31m[K~~~~~~~~~[m[K                                                  
+In file included from [01m[K/home/user/ros2_ws/install/moveit_core/include/moveit/kinematics_base/kinematics_base.h:43[m[K,
+                 from [01m[K/home/user/ros2_ws/install/moveit_core/include/moveit/robot_model/joint_model_group.h:42[m[K,
+                 from [01m[K/home/user/ros2_ws/install/moveit_core/include/moveit/robot_model/robot_model.h:45[m[K,
+                 from [01m[K/home/user/ros2_ws/install/moveit_core/include/moveit/robot_state/robot_state.h:40[m[K,
+                 from [01m[K/home/user/ros2_ws/install/moveit_ros_planning_interface/include/moveit/move_group_interface/move_group_interface.h:41[m[K,
+                 from [01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:1[m[K:
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:219:3:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class MessageT, class CallbackT, class AllocatorT, class SubscriptionT, class MessageMemoryStrategyT> std::shared_ptr<ROSMessageT> rclcpp::Node::create_subscription(const string&, const rclcpp::QoS&, CallbackT&&, const rclcpp::SubscriptionOptionsWithAllocator<AllocatorT>&, typename MessageMemoryStrategyT::SharedPtr)[m[K'
+  219 |   [01;36m[Kcreate_subscription[m[K(
+      |   [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:219:3:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:31:67:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   31 |     webpage_sub_ = [01;31m[Kthis->create_subscription<std_msgs::msg::Int16>([m[K
+      |                    [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^[m[K
+   32 | [01;31m[K        "/webpage", 10,[m[K
+      |         [01;31m[K~~~~~~~~~~~~~~~[m[K                                            
+   33 | [01;31m[K        std::bind(&GetPoseClient::webpage_callback, this,[m[K
+      |         [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K          
+   34 | [01;31m[K                  std::placeholders::_1),[m[K
+      |                   [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~[m[K                          
+   35 | [01;31m[K        options1)[m[K;
+      |         [01;31m[K~~~~~~~~~[m[K                                                  
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:[m[K In member function '[01m[Kvoid GetPoseClient::pick_and_place_service()[m[K':
+[01m[K/home/user/FinalProject/ros2_ws/src/pick_and_place/src/pick_and_place_perception_sim.cpp:365:65:[m[K [01;31m[Kerror: [m[K'[01m[Kpick_and_place[m[K' is not a member of '[01m[KGetPoseClient[m[K'
+  365 |                                       std::bind(&GetPoseClient::[01;31m[Kpick_and_place[m[K,
+      |                                                                 [01;31m[K^~~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/pick_and_place_perception_sim.dir/build.make:76: CMakeFiles/pick_and_place_perception_sim.dir/src/pick_and_place_perception_sim.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/pick_and_place_perception_sim.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

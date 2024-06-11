@@ -1,0 +1,11 @@
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/uninstall.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/pick_and_place_uninstall.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/pick_and_place_perception_sim.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/pick_and_place_perception.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/test.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/edit_cache.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/rebuild_cache.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/list_install_components.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/install.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/install/local.dir
+/home/user/FinalProject/ros2_ws/build/pick_and_place/CMakeFiles/install/strip.dir

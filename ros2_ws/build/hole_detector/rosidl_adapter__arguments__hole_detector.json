@@ -1,0 +1,6 @@
+{
+  "package_name": "hole_detector",
+  "non_idl_tuples": [
+    "/home/user/FinalProject/ros2_ws/src/hole_detector:srv/HoleCoordinates.srv"
+  ]
+}
